@@ -9,7 +9,9 @@ pressIt = $("form").on('keydown', function(key) {
       alert('G was pressed');
   }
 });
-submitIt = 
+submitIt = $("form").on("submit", function() {
+  if ($( "input:first" ).val() === "correct") {
+    alert('Your form is going to be submitted now');}
 // call functions here
 
 });
