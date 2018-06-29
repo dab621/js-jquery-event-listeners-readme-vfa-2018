@@ -1,5 +1,5 @@
 //define functions here
-getIt = 
+getIt = $()
 $(document).ready(function(){
 
 // call functions here
