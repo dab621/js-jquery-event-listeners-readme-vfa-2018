@@ -3,7 +3,8 @@ getIt = $('p').on("dblclick keypress", function(){
   alert("Hey!")
 });
 
-frameIt = $(#load)
+frameIt = $('load')
+pressIt = $
 // call functions here
 return (getIt)
 });
