@@ -1,5 +1,5 @@
 //define functions here
-getIt = $('p').on
+getIt = $('p').on ("dblclick keypress", function(){})`.
 $(document).ready(function(){
 
 // call functions here
